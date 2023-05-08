@@ -1,1 +1,6 @@
-A project on react that shows a 3D card on hover would involve creating a card component that displays an image
+### 3D Sneakers Cards
+
+Made with React, Fully Responsive
+
+To learn how to operate with react projects please refer to the docs:
+https://react.dev/learn
